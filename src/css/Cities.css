@@ -1,0 +1,15 @@
+section.citiesSection{
+    display: flex;
+    justify-content: space-around;
+}
+
+.cities{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+
+}
+
+.cities p{
+    padding: 0.5rem;
+}

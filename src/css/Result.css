@@ -1,0 +1,12 @@
+.resultSection h1, .resultSection h3{
+    padding: 0.5rem;
+}
+
+.resultSection span {
+    font-size: 2rem;
+    padding: 5px;
+}
+
+.result {
+    font-size: 2.5rem;
+}
