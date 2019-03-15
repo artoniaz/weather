@@ -1,0 +1,14 @@
+{
+  "main.css": "/weather/static/css/main.9e6a4bbd.chunk.css",
+  "main.js": "/weather/static/js/main.2905807d.chunk.js",
+  "main.js.map": "/weather/static/js/main.2905807d.chunk.js.map",
+  "runtime~main.js": "/weather/static/js/runtime~main.6cff1e35.js",
+  "runtime~main.js.map": "/weather/static/js/runtime~main.6cff1e35.js.map",
+  "static/js/2.cff1f837.chunk.js": "/weather/static/js/2.cff1f837.chunk.js",
+  "static/js/2.cff1f837.chunk.js.map": "/weather/static/js/2.cff1f837.chunk.js.map",
+  "index.html": "/weather/index.html",
+  "precache-manifest.48728977577f2a28936d9b879e2d0ebe.js": "/weather/precache-manifest.48728977577f2a28936d9b879e2d0ebe.js",
+  "service-worker.js": "/weather/service-worker.js",
+  "static/css/main.9e6a4bbd.chunk.css.map": "/weather/static/css/main.9e6a4bbd.chunk.css.map",
+  "static/media/App.css": "/weather/static/media/kielce.c53d949f.jpg"
+}
