@@ -30,7 +30,7 @@ class App extends Component {
 
     addUserCity = (value) => {
 
-        const API = `http://api.openweathermap.org/data/2.5/weather?q=${value}&APPID=c6db8635ab8d878bcbcd8a49d74596d8`;
+        const API = `https://api.openweathermap.org/data/2.5/weather?q=${value}&APPID=c6db8635ab8d878bcbcd8a49d74596d8`;
 
         fetch(API)
             .then(response => {
@@ -116,7 +116,7 @@ class App extends Component {
     componentDidMount() {
 
         this.cities.map(el => {
-            const API = `http://api.openweathermap.org/data/2.5/weather?q=${el}&APPID=c6db8635ab8d878bcbcd8a49d74596d8`;
+            const API = `https://api.openweathermap.org/data/2.5/weather?q=${el}&APPID=c6db8635ab8d878bcbcd8a49d74596d8`;
 
             return fetch(API)
                 .then(response => {
